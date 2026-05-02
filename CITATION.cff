@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "qhcc-flic-echo-ngc5548-accretion-tests"
+message: "If you use this repository, please cite the related QHCC Practical Note II preprint."
+type: software
+authors:
+  - family-names: "Malkov"
+    given-names: "Evgeniy"
+repository-code: "https://github.com/Zheckiss/qhcc-flic-echo-ngc5548-accretion-tests"
+abstract: "Reproducible QHCC/FLiC accretion-lag framework for NGC 5548, including v4 baseline, v4.4 FLiC lag-layer diagnostic, and v4.5 disk-shape diagnostic."
+license: "NOASSERTION"

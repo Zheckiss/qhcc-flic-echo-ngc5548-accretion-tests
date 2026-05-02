@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated data and runs
+run_v4/
+run_v4_4/
+run_v4_5/
+raw/
+curves/
+results/
+*.fits
+*.dat
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,37 @@
+{
+  "object": "NGC 5548",
+  "mass_msun": 65000000.0,
+  "redshift": 0.017175,
+  "strict_lambda_min": 0.7,
+  "strict_lambda_max": 1.3,
+  "branches": [
+    {
+      "name": "one_way_2over3",
+      "label": "one-way, alpha=2/3",
+      "alpha": 0.6666666666666666
+    },
+    {
+      "name": "two_way_4over3",
+      "label": "two-way, alpha=4/3",
+      "alpha": 1.3333333333333333
+    }
+  ],
+  "default_driver": "hst_cos_1367.csv",
+  "default_responses": [
+    "swift_UVW2.csv",
+    "swift_UVM2.csv",
+    "swift_UVW1.csv",
+    "swift_U.csv",
+    "swift_B.csv",
+    "swift_V.csv",
+    "opt_B_daily.csv",
+    "opt_V_daily.csv",
+    "opt_R_daily.csv",
+    "opt_I_daily.csv",
+    "opt_u_daily.csv",
+    "opt_g_daily.csv",
+    "opt_r_daily.csv",
+    "opt_i_daily.csv",
+    "opt_z_daily.csv"
+  ]
+}
